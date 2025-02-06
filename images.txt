@@ -1,5 +1,7 @@
 nginx:1.27.3
 eclipse-temurin:8u442-b06-jdk
+nacos/nacos-server:2.0.4
+redis:7.4.2
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
