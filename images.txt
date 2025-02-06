@@ -1,5 +1,5 @@
 nginx:1.27.3
-eclipse-temurin:8u442-b06-jdk
+eclipse-temurin:8u442-b06-jdk-jammy
 nacos/nacos-server:v2.0.4
 redis:7.4.2
 #支持私库
