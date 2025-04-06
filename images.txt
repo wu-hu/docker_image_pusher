@@ -8,3 +8,4 @@ redis:7.4.2
 #支持指定架构
 --platform=linux/arm64 tiptime/ttnode
 #--platform=linux/arm64 xiaoyaliu/alist
+whyour/qinglong:debian
